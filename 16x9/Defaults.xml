@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <includes>
-	<include file="Defaults.xml"/>
+	<default type="image">
+		<texture />
+	</default>
 </includes>
