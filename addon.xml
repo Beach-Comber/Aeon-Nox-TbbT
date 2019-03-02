@@ -13,13 +13,13 @@
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en_US">Created by BigNoid, Modded by TbbT, and Widgets by Mr. V</summary>
-		<description lang="en_US">Completely redesigned to create a modern look, while retaining the classic Aeon feel.</description>
+		<description lang="en_US">Really hacky first skin try, using Aeon Nox as base.</description>
 		<platform>all</platform>
 		<license>GNU GENERAL PUBLIC LICENSE Version 3</license>
-		<forum>http://forum.kodi.tv/showthread.php?tid=210069</forum>
-		<website>https://github.com/mikeTbbT164/Aeon-Nox-TbbT</website>
+<!-- 		<forum>http://forum.kodi.tv/showthread.php?tid=210069</forum>
+		<website>https://github.com/mikeTbbT164/Aeon-Nox-TbbT</website> -->
 		<source>https://github.com/Beach-Comber/Aeon-Nox-TbbT</source>
-		<assets>
+<!-- 		<assets>
 			<icon>resources/icon.png</icon>
 			<fanart>resources/fanart.jpg</fanart>
 			<screenshot>resources/screenshots/screenshot-01.jpg</screenshot>
@@ -34,7 +34,7 @@
 			<screenshot>resources/screenshots/screenshot-10.jpg</screenshot>
 			<screenshot>resources/screenshots/screenshot-11.jpg</screenshot>
 			<screenshot>resources/screenshots/screenshot-12.jpg</screenshot>
-		</assets>
+		</assets> -->
 		<news>[I][COLOR FFFF9800]v6.0.1[/COLOR][/I][CR]- Just starting so will be crap for awhile [CR] till I figure out what I'm doing.</news>
 	</extension>
 </addon>
