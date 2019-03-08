@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="skin.aeon.nox.TbbT" version="6.0.1" name="Aeon Nox: TbbT" provider-name="TbbT">
+<addon id="skin.aeon.nox.tbbt" version="0.0.1" name="Aeon Nox: TbbT" provider-name="Beach-Comber">
 	<requires>
 		<import addon="xbmc.gui" version="5.14.0" />
 		<import addon="script.skinshortcuts" version="1.0.10" />
 		<import addon="service.library.data.provider" version="0.0.7" />
-		<import addon="script.grab.fanart" version="0.12.8" />
+<!-- 		<import addon="script.grab.fanart" version="0.12.8" />
 		<import addon="resource.images.studios.white" version="0.0.1" />
-		<import addon="resource.images.recordlabels.white" version="0.0.1" />
+		<import addon="resource.images.recordlabels.white" version="0.0.1" /> -->
 	</requires>
 	<extension point="xbmc.gui.skin" debugging="false">
 		<res width="1920" height="1080" aspect="16:9" default="true" folder="16x9" />
@@ -15,6 +15,7 @@
 		<summary lang="en_US">Created by BigNoid, Modded by TbbT, and Widgets by Mr. V</summary>
 		<description lang="en_US">Really hacky first skin try, using Aeon Nox as base.</description>
 		<platform>all</platform>
+		<language>en_US</language>
 		<license>GNU GENERAL PUBLIC LICENSE Version 3</license>
 <!-- 		<forum>http://forum.kodi.tv/showthread.php?tid=210069</forum>
 		<website>https://github.com/mikeTbbT164/Aeon-Nox-TbbT</website> -->
